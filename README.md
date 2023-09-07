@@ -6,12 +6,42 @@ About me:
 - 🔭 I’m currently working on beginning a programmer career
 - 🌱 I’m currently learning ASP.NET Core
 - 📫 How to reach me: vk.com/vl4d_1k, t.me/vlad_1k
+- ⚡ Fun fact: <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+- [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
 
+<h3 align="left">My stats</h3>
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ dels-in }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+  env:
+    # a github token is required to fetch the contribution calendar from github API
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&layout=compact)](https://github.com/dels-in/github-readme-stats)
 
-<h3 align="left">My trophies</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=slydragonn&theme=juicyfresh&title=Repositories,Stars,Commits,Followers,PullRequest,MultipleLang&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dels-in)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dels-in)
+
 
 
 <!--
