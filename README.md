@@ -9,14 +9,11 @@ About me:
 
 <h3 align="left">My stats</h3>
 
-<align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)</>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&layout=compact)](https://github.com/dels-in/github-readme-stats)
+<h align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)</h>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dels-in)](https://git.io/streak-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dels-in)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&layout=compact)](https://github.com/dels-in/github-readme-stats)
 
 
 <!--
