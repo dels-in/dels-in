@@ -7,7 +7,7 @@
 
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/dels-in/dels-in/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/dels-in/dels-in/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation]([https://raw.githubusercontent.com/dels-in/dels-in/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only](https://platane.github.io/snk/))![github contribution grid snake animation]([https://raw.githubusercontent.com/dels-in/dels-in/output/github-contribution-grid-snake.svg#gh-light-mode-only](https://platane.github.io/snk/))
 
 
 <h3 align="left">About me:</h3>
