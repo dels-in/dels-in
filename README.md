@@ -3,7 +3,7 @@
 
 About me:
 - 🔭 I’m currently working on beginning a programmer career
-- 🌱 I’m currently learning ASP.NET Core
+- 🌱 I’m currently learning Git
 - [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
 
 <h3 align="left">My stats</h3>
