@@ -6,7 +6,6 @@ About me:
 - 🔭 I’m currently working on beginning a programmer career
 - 🌱 I’m currently learning ASP.NET Core
 - 📫 How to reach me: vk.com/vl4d_1k, t.me/vlad_1k
-- ⚡ Fun fact: <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 - [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
 
 <h3 align="left">My stats</h3>
@@ -34,13 +33,13 @@ About me:
     # a github token is required to fetch the contribution calendar from github API
     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&layout=compact)](https://github.com/dels-in/github-readme-stats)
+<h3 align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&layout=compact)](https://github.com/dels-in/github-readme-stats)</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dels-in)](https://git.io/streak-stats)
+<h3 align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dels-in)](https://git.io/streak-stats)</h3>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dels-in)
+<h3 align="center">![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dels-in)</h3>
 
 
 
