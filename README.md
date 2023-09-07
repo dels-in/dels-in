@@ -11,7 +11,7 @@ About me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&layout=compact)](https://github.com/dels-in/github-readme-stats)
 
 <h3 align="left">My trophies</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=dels-in)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?dels-in)](https://github.com/ryo-ma/github-profile-trophy)  
 <!--
 **dels-in/dels-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
