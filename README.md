@@ -8,7 +8,7 @@ About me:
 - 📫 How to reach me: vk.com/vl4d_1k, t.me/vlad_1k
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&layout=compact)](https://github.com/dels-in/github-readme-stats)
 
 <h3 align="left">My trophies</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=dels-in)](https://github.com/dels-in/github-profile-trophy)
