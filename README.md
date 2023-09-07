@@ -1,6 +1,12 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/vlad_1k" target="_blank">Vlad</a> 
 <h3 align="center">Oil and gas engineering student from Russia 🇷🇺 who is crazy about programming</h3>
 
+<!--
+### - ⚡ Zdarova 👋  
+<p align='center'>
+  <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
