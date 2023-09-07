@@ -7,6 +7,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dels-in/dels-in/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 About me:
 - 🔭 I’m currently working on beginning a programmer career
 - 🌱 I’m currently learning Git
