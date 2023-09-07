@@ -8,8 +8,8 @@ About me:
 - [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
 
 <h3 align="left">My stats</h3>
+<p align="center">
 
-<p align="center"><
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
   ></p>
 
