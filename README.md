@@ -1,6 +1,3 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/vlad_1k" target="_blank">Vlad</a> 
-<h3 align="center">Oil and gas engineering student from Russia 🇷🇺 who is crazy about programming</h3>
-
 <!--
 ### - ⚡ Zdarova 👋  
 <p align='center'>
@@ -22,6 +19,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=buefy" />
 </p>
+
+<h1 align="center">Hi there, I'm <a href="https://t.me/vlad_1k" target="_blank">Vlad</a> 
+<h3 align="center">Oil and gas engineering student from Russia 🇷🇺 who is crazy about programming</h3>
 
 [![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
 [![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teuchezh&layout=compact&theme=buefy)](https://github.com/teuchezh)
