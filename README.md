@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/vlad_1k" target="_blank">Vlad</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Oil and gas engineering student from Russia 🇷🇺 who is crazy about programming</h3>
 
 About me:
