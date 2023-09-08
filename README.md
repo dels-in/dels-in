@@ -8,9 +8,9 @@
 </div>
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="[github-snake-dark.svg](https://platane.github.io/snk/)" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://platane.github.io/snk/)" />
+  <img alt="github-snake" src="[github-snake.svg](https://platane.github.io/snk/)" />
 </picture>
 
 <h3 align="left">About me:</h3>
