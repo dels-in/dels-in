@@ -13,6 +13,11 @@
   <img alt="github-snake" src="[github-snake.svg](https://platane.github.io/snk/)" />
 </picture>
 
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/diagramsdotnet-white.svg](https://platane.github.io/snk/)" type="image/svg+xml"/>
+  <img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg](https://platane.github.io/snk/)" type="image/svg+xml" alt="Drawio" align="left" width="34" height="34"/>
+</picture>
+
 <h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on beginning a programmer career
