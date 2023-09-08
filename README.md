@@ -7,11 +7,11 @@
 
 </div>
 
-<picture>
-#  <source media="(prefers-color-scheme: dark)" srcset="(https://platane.github.io/snk/)" />
-#  <source media="(prefers-color-scheme: light)" srcset="(https://platane.github.io/snk/)" />
-#  <img alt="github-snake" src="(https://platane.github.io/snk/)" />
-</picture>
+//<picture>
+//  <source media="(prefers-color-scheme: dark)" srcset="(https://platane.github.io/snk/)" />
+// <source media="(prefers-color-scheme: light)" srcset="(https://platane.github.io/snk/)" />
+//  <img alt="github-snake" src="(https://platane.github.io/snk/)" />
+//</picture>
 
 <h3 align="left">About me:</h3>
 
