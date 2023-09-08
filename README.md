@@ -6,17 +6,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="(https://platane.github.io/snk/)" />
-  <source media="(prefers-color-scheme: light)" srcset="(https://platane.github.io/snk/)" />
-  <img alt="github-snake" src="(https://platane.github.io/snk/)" />
-</picture>
 
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/assets/readme/diagramsdotnet-white.svg](https://platane.github.io/snk/)" type="image/svg+xml"/>
-  <img src="[https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg](https://platane.github.io/snk/)" type="image/svg+xml" alt="Drawio" align="left" width="34" height="34"/>
-</picture>
+#<picture>
+#  <source media="(prefers-color-scheme: dark)" srcset="(https://platane.github.io/snk/)" />
+#  <source media="(prefers-color-scheme: light)" srcset="(https://platane.github.io/snk/)" />
+#  <img alt="github-snake" src="(https://platane.github.io/snk/)" />
+#</picture>
 
 <h3 align="left">About me:</h3>
 
