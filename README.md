@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://t.me/vlad_1k" target="_blank">Vlad</a> 
+<h1 align="center">Welcome to my page, I'm <a href="https://t.me/vlad_1k" target="_blank">Vlad</a> 
 <h3 align="center">Oil and gas engineering student from Russia 🇷🇺 who is crazy about programming</h3>
 
 <div align="center">
