@@ -2,8 +2,8 @@
 <h3 align="center">Oil and gas engineering student from Russia 🇷🇺 who is crazy about programming</h3>
 
 <div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dels-in)](https://git.io/streak-stats)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -15,13 +15,7 @@
 
 - [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
 
-<h3 align="left">My stats:</h3>
 
-<div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 
 
