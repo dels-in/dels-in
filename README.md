@@ -12,9 +12,9 @@
 - 🔭 I’m currently working on beginning a programmer career
 
 - 🌱 I’m currently learning Git
-
-##- [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
-
+<!--
+- [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
+-->
 
 
 
@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
