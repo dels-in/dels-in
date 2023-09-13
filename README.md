@@ -11,9 +11,12 @@
 
 - 🔭 I’m currently working on beginning a programmer career
 
-- 🌱 I’m currently learning Git
+- 🌱 I’m currently learning SQL
+  
 <!--
+
 - [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
+
 -->
 
 
