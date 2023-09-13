@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Git
 
-- [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
+#- [![codewars](https://www.codewars.com/users/dels-in/badges/micro)](https://www.codewars.com/users/dels-in)
 
 
 
