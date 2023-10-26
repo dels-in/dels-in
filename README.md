@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on beginning a programmer career
 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning ASP.NET
   
 <!--
 
