@@ -11,7 +11,7 @@
 
 - <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=000000&random=false&width=435&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+beginning+a+programmer+career" alt="Typing SVG" /></a>
 
-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=000000&random=false&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ASP.NET" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=000000&random=false&width=435&lines=-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ASP.NET)](https://git.io/typing-svg)
   
 <!--
 
