@@ -4,6 +4,7 @@
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -14,8 +15,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ASP.NET)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dels-in)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
