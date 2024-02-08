@@ -4,7 +4,7 @@
 <div align="center">
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dels-in&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dels-in&theme=default)
 
 
 </div>
