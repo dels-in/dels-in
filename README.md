@@ -14,6 +14,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ASP.NET)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dels-in)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dels-in)](https://git.io/streak-stats)
 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
