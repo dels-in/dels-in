@@ -6,6 +6,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dels-in&theme=github)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dels-in&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dels-in&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dels-in&theme=github)
+
 
 
 </div>
