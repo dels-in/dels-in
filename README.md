@@ -3,7 +3,7 @@
 
 <div align="center"> 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&hide=HLSL,smalltalk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dels-in&theme=github&utcOffset=3)
