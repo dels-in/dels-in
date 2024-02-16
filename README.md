@@ -13,11 +13,11 @@
 
 <h3 align="left">About me:</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&pause=1000&color=000000&background=transparent&multiline=true&repeat=false&vCenter=true&random=false&width=435&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+beginning+;a+programmer+career)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&pause=1000&color=000000&background=FFFFFF&multiline=true&repeat=false&vCenter=true&random=false&width=435&lines=-+%F0%9F%94%AD+I%E2%80%99m+currently+working+on+beginning+;a+programmer+career)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=15&pause=1000&color=000000&background=FFFFFF&multiline=true&repeat=false&vCenter=true&random=false&width=435&lines=-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ASP.NET)](https://git.io/typing-svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dels-in)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dels-in&theme=transparent)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
