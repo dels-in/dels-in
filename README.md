@@ -6,7 +6,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dels-in&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dels-in&hide=HLSL,smalltalk&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dels-in&&theme=transparent&utcOffset=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dels-in&border_radius=4&theme=transparent&utcOffset=3)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dels-in&theme=transparent&border_radius=4&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 </div>
